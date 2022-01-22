@@ -1,3 +1,5 @@
+The repo includes Assignments, Codes, Lectures notes.
+
 # Numerical Computing (Full Course in Urdu) 
 
 recluze.net 
